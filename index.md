@@ -10,7 +10,7 @@ Spatial data science is revolutionizing the way we understand and interact with 
 
 ## Who Benefits from Spatial Data Science?
 
-### Script Kiddies
+### Scripters
 Dive into the world of spatial data science and get hands-on experience with real-world data. Learn how to manipulate and analyze spatial data to uncover hidden insights.
 
 ### Data Scientists
