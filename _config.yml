@@ -32,6 +32,7 @@ twitter_username: GeoDevGermany
 
 # Build settings
 theme: jekyll-theme-chirpy
+remote_theme: jekyll-theme-chirpy
 plugins:
   - jekyll-feed
 
