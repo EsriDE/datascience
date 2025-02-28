@@ -3,36 +3,14 @@
 
 @import "{{ site.theme }}";
 
-.row {
-    display: flex;
-    flex-wrap: wrap;
-    margin: 0 -15px;
-  }
-  
-  .column {
-    flex: 25%;
-    max-width: 25%;
-    padding: 0 15px;
-  }
-  
-  .column h4 {
-    margin-top: 0;
-  }
-  
-  .column p {
-    margin-bottom: 1em;
-  }
-  
-  @media screen and (max-width: 768px) {
-    .column {
-      flex: 50%;
-      max-width: 50%;
-    }
-  }
-  
-  @media screen and (max-width: 480px) {
-    .column {
-      flex: 100%;
-      max-width: 100%;
-    }
-  }
+header h1 {
+    width: 100%;
+}
+
+header h2 {
+    width: 100%;
+}
+
+#main-content {
+    width: 100%;
+}
