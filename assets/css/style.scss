@@ -14,3 +14,13 @@ header h2 {
 #main-content {
     width: 100%;
 }
+
+.flow-layout {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(100px, 300px));
+    gap: 10px; /* Optional: Adds space between images */
+}
+.flow-layout img {
+    width: 100%;
+    height: auto;
+}

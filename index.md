@@ -25,3 +25,29 @@ Innovate and grow with spatial data science. Build powerful applications that le
 ## ArcGIS Living Atlas
 Explore the ArcGIS Living Atlas of the World, the premier collection of geographic information from around the globe. Access a vast array of maps, apps, and data layers to support your spatial data science projects and drive impactful results.
 
+{% if site.data.repos.github_users %}
+
+## Open Source Contributors
+
+<div class="flow-layout">
+  {% for user in site.data.repos.github_users %}
+    {% include contributors.html username=user %}
+  {% endfor %}
+</div>
+
+{% endif %}
+
+{% if site.data.repos.github_repos %}
+
+## GitHub Repositories
+
+<div class="flow-layout">
+  {% for repo in site.data.repos.github_repos %}
+    {% include repos.html repository=repo %}
+  {% endfor %}
+</div>
+
+{% endif %}
+
+
+

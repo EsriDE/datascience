@@ -1,0 +1,12 @@
+github_users:
+  - jyaistMap
+  - DavidJVitale
+  - rohitgeo
+
+github_repos:
+  - Esri/arcgis-python-api
+  - Esri/geometry-api-java
+  - Esri/gis-tools-for-hadoop
+  - Esri/deep-learning-frameworks
+  - Esri/spatial-framework-for-hadoop
+  - Esri/arcgis-maps-sdk-samples-qt

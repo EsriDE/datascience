@@ -1,0 +1,23 @@
+<style>
+    .userdiv {
+        display: flex;
+        justify-content: space-around; /* Distributes space evenly */
+        align-items: center; /* Aligns items vertically in the center */
+    }
+    .userdiv div {
+        margin: 10px;
+    }
+    .userdiv img {
+        max-width: 100px; /* Adjust the size as needed */
+        height: auto;
+    }
+</style>
+
+<div class="userdiv">
+    <a href="https://github.com/{{ include.username }}">
+      <img
+        alt="{{ include.username }}"
+        src="https://github-readme-stats.vercel.app/api/?username={{ include.username }}&show_icons=true"
+      >
+    </a>
+  </div>
