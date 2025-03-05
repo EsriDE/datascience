@@ -22,12 +22,10 @@ Extract valuable knowledge from spatial data. Optimize data pipelines and ensure
 ### Developers
 Innovate and grow with spatial data science. Build powerful applications that leverage location-based insights to deliver unique solutions and drive growth.
 
-## ArcGIS Living Atlas
-Explore the ArcGIS Living Atlas of the World, the premier collection of geographic information from around the globe. Access a vast array of maps, apps, and data layers to support your spatial data science projects and drive impactful results.
-
 {% if site.data.repos.github_users %}
 
-## Open Source Contributors
+## Spatial Data Science Contributors
+We believe in the collaborative spirit of the community. Our Spatial Data Science portfolio is a testament to the collective efforts of passionate individuals who contribute their time and expertise to improve our portfolio.
 
 <div class="flow-layout">
   {% for user in site.data.repos.github_users %}
@@ -40,6 +38,7 @@ Explore the ArcGIS Living Atlas of the World, the premier collection of geograph
 {% if site.data.repos.github_repos %}
 
 ## GitHub Repositories
+Explore our curated list of repositories that showcase our work and contributions in the field of spatial data science. These projects highlight various aspects of spatial analysis, data engineering, machine learning, and data visualization.
 
 <div class="flow-layout">
   {% for repo in site.data.repos.github_repos %}
@@ -48,6 +47,9 @@ Explore the ArcGIS Living Atlas of the World, the premier collection of geograph
 </div>
 
 {% endif %}
+
+## ArcGIS Living Atlas
+Explore the ArcGIS Living Atlas of the World, the premier collection of geographic information from around the globe. Access a vast array of maps, apps, and data layers to support your spatial data science projects and drive impactful results. Content is king, and tooling is queen. [Explore ArcGIS Living Atlas](https://livingatlas.arcgis.com/en/browse/#d=1&categories=New+and+Noteworthy&type=layers&cont=true&authoritative=true&srt=numviews)
 
 
 

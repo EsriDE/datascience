@@ -1,10 +1,22 @@
 github_users:
   - jyaistMap
+  - ldanzinger
   - DavidJVitale
   - rohitgeo
+  - stolstov
+  - randallwhitman
+  - scw
+  - lsmallwood
+  - JamesMBallard
+  - jared-2016
+  - esride-jts
+  - esride-ale
+  - alinakramer
 
 github_repos:
   - Esri/arcgis-python-api
+  - EsriDE/urban-heat-risk-index
+  - EsriDE/green-spatial-engineering
   - Esri/geometry-api-java
   - Esri/gis-tools-for-hadoop
   - Esri/deep-learning-frameworks
