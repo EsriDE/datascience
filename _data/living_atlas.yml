@@ -11,3 +11,15 @@ portal_items:
    url: https://www.arcgis.com/home/item.html?id=dece90af1a0242dcbf0ca36d30276aa3
    thumbnailurl: https://www.arcgis.com/sharing/rest/content/items/dece90af1a0242dcbf0ca36d30276aa3/info/thumbnail/thumbnail1586453756149.png
    description: Thermal activity detected by the VIIRS sensors on the NOAA/NASA Suomi NPP, NOAA-20, and NOAA-21 satellites during the last 7 days.
+ - name: DWD Wetterwarnungen in Deutschland
+   url: https://www.arcgis.com/home/item.html?id=e7e4164319284754a9f72f0c956efb40
+   thumbnailurl: https://www.arcgis.com/sharing/rest/content/items/e7e4164319284754a9f72f0c956efb40/info/thumbnail/thumbnail.png
+   description: Wetterwarnungen auf Gemeindeebene bereitgestellt druch den Deutschen Wetterdienst (DWD). Dieser Service ist in Beta.
+ - name: Schutzgebiete Deutschland
+   url: https://www.arcgis.com/home/item.html?id=2beeb8ed32d94730b5b70750ba434a4d
+   thumbnailurl: https://www.arcgis.com/sharing/rest/content/items/2beeb8ed32d94730b5b70750ba434a4d/info/thumbnail/thumbnail1691672665497.png
+   description: Schutzgebiete Deutschlands wie Naturschutzgebiete, FFH-Gebiete oder Biosphärenreservate des Bundesamt für Naturschutz.
+ - name: Postleitzahlengebiete in Deutschland
+   url: https://www.arcgis.com/home/item.html?id=5b203df4357844c8a6715d7d411a8341
+   thumbnailurl: https://www.arcgis.com/sharing/rest/content/items/5b203df4357844c8a6715d7d411a8341/info/thumbnail/Bild1.png
+   description: Postleitzahlengebiete Deutschlands auf Basis OpenStreetMap Daten mit Einwohnerzahl bereitgestellt durch eRecht24.
