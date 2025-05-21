@@ -2,9 +2,12 @@ portal_items:
  - name: USA Current Wildfires
    url: https://www.arcgis.com/home/item.html?id=d957997ccee7408287a963600a77f61f
    thumbnailurl: https://www.arcgis.com/sharing/rest/content/items/d957997ccee7408287a963600a77f61f/info/thumbnail/thumbnail1589394128160.jpeg
+   description: Thermal activity detected by the VIIRS sensors on the NOAA/NASA Suomi NPP, NOAA-20, and NOAA-21 satellites during the last 7 days.
  - name: USA Weather Watches and Warnings
    url: https://www.arcgis.com/home/item.html?id=a6134ae01aad44c499d12feec782b386
    thumbnailurl: https://www.arcgis.com/sharing/rest/content/items/a6134ae01aad44c499d12feec782b386/info/thumbnail/thumbnail1560897974595.jpeg
+   description: Thermal activity detected by the VIIRS sensors on the NOAA/NASA Suomi NPP, NOAA-20, and NOAA-21 satellites during the last 7 days.
  - name: Satellite Thermal Hotspots
    url: https://www.arcgis.com/home/item.html?id=dece90af1a0242dcbf0ca36d30276aa3
    thumbnailurl: https://www.arcgis.com/sharing/rest/content/items/dece90af1a0242dcbf0ca36d30276aa3/info/thumbnail/thumbnail1586453756149.png
+   description: Thermal activity detected by the VIIRS sensors on the NOAA/NASA Suomi NPP, NOAA-20, and NOAA-21 satellites during the last 7 days.
