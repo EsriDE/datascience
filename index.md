@@ -51,5 +51,11 @@ Explore our curated list of repositories that showcase our work and contribution
 ## ArcGIS Living Atlas
 Explore the ArcGIS Living Atlas of the World, the premier collection of geographic information from around the globe. Access a vast array of maps, apps, and data layers to support your spatial data science projects and drive impactful results. Content is king, and tooling is queen. [Explore ArcGIS Living Atlas](https://livingatlas.arcgis.com/en/browse/#d=1&categories=New+and+Noteworthy&type=layers&cont=true&authoritative=true&srt=numviews)
 
+<div class="flow-layout">
+  {% for item in site.data.living_atlas.portal_items %}
+    {% include living-atlas-gallery.html item=item %}
+  {% endfor %}
+</div>
+
 
 

@@ -1,0 +1,7 @@
+portal_items:
+ - name: USA Current Wildfires
+   url: https://www.arcgis.com/home/item.html?id=d957997ccee7408287a963600a77f61f
+ - name: USA Weather Watches and Warnings
+   url: https://www.arcgis.com/home/item.html?id=a6134ae01aad44c499d12feec782b386
+ - name: Satellite Thermal Hotspots
+   url: https://www.arcgis.com/home/item.html?id=dece90af1a0242dcbf0ca36d30276aa3
