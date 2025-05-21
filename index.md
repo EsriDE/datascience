@@ -8,7 +8,7 @@ layout: default
 
 Spatial data science is revolutionizing the way we understand and interact with the world. By leveraging the power of location, we can uncover patterns, make informed decisions, and tackle complex challenges across various domains.
 
-## Who Benefits from Spatial Data Science?
+## Who benefits from this Spatial Craft?
 
 ### Scripters
 Dive into the world of spatial data science and get hands-on experience with real-world data. Learn how to manipulate and analyze spatial data to uncover hidden insights.
