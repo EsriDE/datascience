@@ -16,7 +16,7 @@ Dive into the world of spatial data science and get hands-on experience with rea
 ### Data Scientists
 Enhance your expertise with spatial skills. Integrate geographic data into your analyses to provide deeper context and more accurate predictions.
 
-### Data Engineers
+### AI, ML, Data and GIS Engineers
 Extract valuable knowledge from spatial data. Optimize data pipelines and ensure the efficient processing and storage of geographic information.
 
 ### Developers
